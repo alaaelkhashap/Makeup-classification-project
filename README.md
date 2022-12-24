@@ -13,6 +13,7 @@ Nowadays, most individuals, especially women, consider cosmetics to be vital. De
 The dataset was collected manually by the team members, part of the data was from real life (pictures we took from our colleagues), and the other part was scrapped from customers' reviews on makeup websites (SHEIN). We have collected 500 images divided into 10 classes. Each class includes 50 images.
 
 * Visualize samples from the dataset
+
 ![image](https://user-images.githubusercontent.com/60587913/209417760-a3394f78-2717-465b-ae2d-3508a9763ed7.png)
 
 ## Methodology
