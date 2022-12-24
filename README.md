@@ -25,6 +25,8 @@ The dataset was collected manually by the team members, part of the data was fro
 * Enhanced model:
 An enhanced deep super-resolution network (EDSR)  technique was applied to enhance the 64*64*3 images. Then they were fed to the pre-trained models.
 The hyperparameter tuning is done for each model separately. 
+![image](https://user-images.githubusercontent.com/60587913/209417760-a3394f78-2717-465b-ae2d-3508a9763ed7.png)
+
 
   
  ## CONCLUSION AND FUTURE WORK
